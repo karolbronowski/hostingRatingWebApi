@@ -1,0 +1,14 @@
+g:\Projects\hostingRatingWebApi\bin\Debug\netcoreapp2.1\hostingRatingWebApi.deps.json
+g:\Projects\hostingRatingWebApi\bin\Debug\netcoreapp2.1\hostingRatingWebApi.runtimeconfig.json
+g:\Projects\hostingRatingWebApi\bin\Debug\netcoreapp2.1\hostingRatingWebApi.runtimeconfig.dev.json
+g:\Projects\hostingRatingWebApi\bin\Debug\netcoreapp2.1\hostingRatingWebApi.dll
+g:\Projects\hostingRatingWebApi\bin\Debug\netcoreapp2.1\hostingRatingWebApi.pdb
+g:\Projects\hostingRatingWebApi\obj\Debug\netcoreapp2.1\hostingRatingWebApi.csprojAssemblyReference.cache
+g:\Projects\hostingRatingWebApi\obj\Debug\netcoreapp2.1\hostingRatingWebApi.csproj.CoreCompileInputs.cache
+g:\Projects\hostingRatingWebApi\obj\Debug\netcoreapp2.1\hostingRatingWebApi.RazorAssemblyInfo.cache
+g:\Projects\hostingRatingWebApi\obj\Debug\netcoreapp2.1\hostingRatingWebApi.RazorAssemblyInfo.cs
+g:\Projects\hostingRatingWebApi\obj\Debug\netcoreapp2.1\hostingRatingWebApi.AssemblyInfoInputs.cache
+g:\Projects\hostingRatingWebApi\obj\Debug\netcoreapp2.1\hostingRatingWebApi.AssemblyInfo.cs
+g:\Projects\hostingRatingWebApi\obj\Debug\netcoreapp2.1\hostingRatingWebApi.RazorTargetAssemblyInfo.cache
+g:\Projects\hostingRatingWebApi\obj\Debug\netcoreapp2.1\hostingRatingWebApi.dll
+g:\Projects\hostingRatingWebApi\obj\Debug\netcoreapp2.1\hostingRatingWebApi.pdb
