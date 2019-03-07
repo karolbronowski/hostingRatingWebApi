@@ -22,7 +22,7 @@ namespace hostingRatingWebApi.Repositories
 
         public async Task<BrandPackage> CreateAsync(BrandPackage brand)
         {
-             _databaseContext.Add(brand);
+            _databaseContext.Add(brand);
             await _databaseContext.SaveChangesAsync();
             await Task.CompletedTask;
             return brand;

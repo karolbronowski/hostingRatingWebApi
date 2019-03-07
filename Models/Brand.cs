@@ -13,7 +13,7 @@ namespace hostingRatingWebApi.Models
         
         public Guid CreatorId {get;protected set;}
         public User Creator {get;protected set;}
-        public List<BrandPackage> BrandPackages {get;set;}
+        public List<BrandPackage> BrandPackages {get;set;} = new List<BrandPackage>();
         public Brand(Guid creatorId, string name, string imageUrl)
         {
             CreatorId = creatorId;
